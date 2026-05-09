@@ -91,5 +91,5 @@
    CROSS JOIN courses c;
 
 
-##Database MySQL
-## Schema Tables: students, courses, enrollments, instructors
+Database : MySQL
+Tables : students, courses, enrollments, instructors
