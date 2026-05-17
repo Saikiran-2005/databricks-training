@@ -125,3 +125,6 @@
    FROM employees;
 
 ---
+
+Database : MySQL
+Tables : Employees, Orders
