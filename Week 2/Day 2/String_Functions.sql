@@ -39,7 +39,6 @@ INSERT INTO employees VALUES
 
 (5, ' Suresh ', 'suresh@xyz.com', 'data engineering', ' hyderabad ', '60000', ' ');
 
----
 
 ## LENGTH() / CHAR_LENGTH()
 
