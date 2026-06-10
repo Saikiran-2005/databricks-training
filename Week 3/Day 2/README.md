@@ -1,4 +1,4 @@
-# 🚀 Week 2 - Day 2: PySpark DataFrame Operations
+# 🚀 Week 3 - Day 2: PySpark DataFrame Operations
 
 ## 📌 Objective
 
