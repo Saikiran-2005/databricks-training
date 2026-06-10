@@ -1,4 +1,4 @@
-# 🚀 Week 2 - Day 3: PySpark Filtering Operations
+# 🚀 Week 3 - Day 3: PySpark Filtering Operations
 
 ## 📌 Objective
 
